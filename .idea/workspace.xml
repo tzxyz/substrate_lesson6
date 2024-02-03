@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b1d8606-3d07-43de-88ab-3032fe0f69c9" name="变更" comment="根据chainspec部署公开测试网络提交 20221012">
+      <change afterPath="$PROJECT_DIR$/代码运行截图/lesson6/作业备注.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="tz8vhux3" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EnXMHHZS8rHzxWNCZUBJKlJgfB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/caspar/CLionProjects/substrate-advanced-learning/substrate-node-template/pallets/offchain_index",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.disableDetachedFileInspection/Users/caspar/CLionProjects/substrate-advanced-learning/substrate-node-template/pallets/offchain_index/src/lib.rs": "true",
+    "org.rust.disableDetachedFileInspection/Users/caspar/CLionProjects/substrate-advanced-learning/substrate-node-template/pallets/poe/src/we2ights.rs": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pallets/offchain_index" />
+      <recent name="$PROJECT_DIR$/代码运行截图/lesson3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cargo.Test tests::transfer_kitty_not_owner">
+    <configuration name="Test tests::breed_kitty_not_owner_should_fail" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package pallet-kitties --lib tests::breed_kitty_not_owner_should_fail -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test tests::create_kitty_next_kitty_id_overflow_should_fail" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package pallet-kitties --lib tests::create_kitty_next_kitty_id_overflow_should_fail -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test tests::create_kitty_not_enough_balance_should_fail" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package pallet-kitties --lib tests::create_kitty_not_enough_balance_should_fail -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test tests::transfer_kitty_not_owner" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package pallet-kitties --lib tests::transfer_kitty_not_owner -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test tests::transfer_kitty_work" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package pallet-kitties --lib tests::transfer_kitty_work -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Test tests::transfer_kitty_not_owner" />
+        <item itemvalue="Cargo.Test tests::transfer_kitty_work" />
+        <item itemvalue="Cargo.Test tests::breed_kitty_not_owner_should_fail" />
+        <item itemvalue="Cargo.Test tests::create_kitty_next_kitty_id_overflow_should_fail" />
+        <item itemvalue="Cargo.Test tests::create_kitty_not_enough_balance_should_fail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6b1d8606-3d07-43de-88ab-3032fe0f69c9" name="变更" comment="" />
+      <created>1663232276917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663232276917</updated>
+      <workItem from="1663232282481" duration="25000" />
+      <workItem from="1663233255868" duration="1000000" />
+      <workItem from="1663290435925" duration="1225000" />
+      <workItem from="1663296236537" duration="963000" />
+      <workItem from="1663298646873" duration="340000" />
+      <workItem from="1663299102729" duration="2313000" />
+      <workItem from="1663311556889" duration="4256000" />
+      <workItem from="1663336218833" duration="665000" />
+      <workItem from="1663414305652" duration="7072000" />
+      <workItem from="1663546548238" duration="213000" />
+      <workItem from="1663553889888" duration="2046000" />
+      <workItem from="1663556279817" duration="5591000" />
+      <workItem from="1664246383589" duration="6404000" />
+      <workItem from="1664260583560" duration="14095000" />
+      <workItem from="1664520956420" duration="308000" />
+      <workItem from="1665449875057" duration="5318000" />
+      <workItem from="1665540527334" duration="801000" />
+      <workItem from="1665542044292" duration="18936000" />
+    </task>
+    <task id="LOCAL-00001" summary="kitty 添加 #[transactional] 宏   20220917">
+      <created>1663425963398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663425963398</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加kitty单元测试用例  20220919">
+      <created>1663555157615</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663555157616</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加kitty单元测试及前端front-end react运行截图  20220919">
+      <created>1663555673090</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663555673090</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加offchain_index pallet 20220927">
+      <created>1664274304884</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664274304884</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加poe模块的benchmark并将其运行结果应用在可调用函数  20221012">
+      <created>1665565943367</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665565943368</updated>
+    </task>
+    <task id="LOCAL-00006" summary="substrate benchmark指令备注 20221012">
+      <created>1665567003191</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665567003191</updated>
+    </task>
+    <task id="LOCAL-00007" summary="local-testnet chain spec两种格式文件提交 20221012">
+      <created>1665570904354</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665570904354</updated>
+    </task>
+    <task id="LOCAL-00008" summary="根据chainspec部署公开测试网络提交 20221012">
+      <created>1665571867272</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665571867272</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="kitty 添加 #[transactional] 宏   20220917" />
+    <MESSAGE value="添加kitty单元测试用例  20220919" />
+    <MESSAGE value="添加kitty单元测试及前端front-end react运行截图  20220919" />
+    <MESSAGE value="添加offchain_index pallet 20220927" />
+    <MESSAGE value="增加poe模块的benchmark并将其运行结果应用在可调用函数  20221012" />
+    <MESSAGE value="substrate benchmark指令备注 20221012" />
+    <MESSAGE value="local-testnet chain spec两种格式文件提交 20221012" />
+    <MESSAGE value="根据chainspec部署公开测试网络提交 20221012" />
+    <option name="LAST_COMMIT_MESSAGE" value="根据chainspec部署公开测试网络提交 20221012" />
+  </component>
+</project>
